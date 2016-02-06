@@ -1,7 +1,7 @@
 # mount point	fstype    device    	[device2]
 
 /boot       mtd         boot
-/cache      ext4        /dev/block/mmcblk0p3
+/cache      ext4        cache
 /data       ext4        /dev/block/mmcblk0p2
 /misc       mtd         misc
 /recovery   mtd         recovery
